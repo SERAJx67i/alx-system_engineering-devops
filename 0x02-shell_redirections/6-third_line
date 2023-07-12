@@ -1,2 +1,3 @@
 #!/bin/bash
-head -13 iacta | tail +13
+head -3 bruh | tail -3 
+
