@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod -R a+x `:sa
-aq`
+chmod ugoa+x ./*
